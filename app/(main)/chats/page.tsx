@@ -80,7 +80,8 @@ function matchSearchQuery(
       (chat as { itemId?: string }).itemId ?? "",
     ].join(" ")
   );
-  return tokens.every((token) => searchable.includes(token));
+  const searchableNoSpaces = searchable.replace(/\s/g, "");
+  return tokens.every((token) => searchableNoSpaces.includes(normalizeForSearch(token).replace(/\s/g, "")));
 }
 
 export default function ChatsPage() {
